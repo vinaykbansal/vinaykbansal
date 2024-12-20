@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on leading the Defender track for CoSAI - https://github.com/cosai-oasis/ws2-defenders
+- 🌱 I’m currently learning techniques for securing AI 
+
+
+
+
 <!--
 **vinaykbansal/vinaykbansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
